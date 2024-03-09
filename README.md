@@ -6,7 +6,7 @@ Uma análise da Covid-19 utilizando várias bibliotecas do Python.
 
 
 ## 🚀 Features 🚀
-- 
+
 TOP 10 de Países pelo TOTAL DE CASOS
 
 TOP 10 de Países pelo Total de Mortes por Milhão
